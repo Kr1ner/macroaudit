@@ -140,6 +140,12 @@ body
 {
    text-decoration:none;
     font-size:20px;
+    color: grey;
+}
+
+.nava:hover
+{
+    color: green;
 }
 
 #navbar
@@ -189,5 +195,28 @@ body
    width:67vw;
  height:10vw;
  background-color:white;
+<<<<<<< HEAD
+ margin: 0 auto;
+
+}
+
+
+.navai
+{
+   text-decoration:none;
+   color: black;
+    font-size:22px;
+}
+
+.navai:hover
+{
+   color: green;
+}
+
+.facebook
+{
+  text-decoration: none;
+=======
  margin: 0 auto;S
+>>>>>>> 3398f6557d3d3bd5923714052d2c2ee118f8b867
 }
