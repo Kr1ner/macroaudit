@@ -191,14 +191,6 @@ body
   float: left;
   border-radius: 2px;
 }
-.menu_margin{
-   width:67vw;
- height:10vw;
- background-color:white;
-<<<<<<< HEAD
- margin: 0 auto;
-
-}
 
 
 .navai
@@ -216,7 +208,4 @@ body
 .facebook
 {
   text-decoration: none;
-=======
- margin: 0 auto;S
->>>>>>> 3398f6557d3d3bd5923714052d2c2ee118f8b867
 }
