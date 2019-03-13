@@ -113,6 +113,7 @@ body
    height:57vw;
    background-color: white;
    margin: 0 auto;
+   
 }
 
 .logo
@@ -208,4 +209,13 @@ body
 .facebook
 {
   text-decoration: none;
+}
+
+.menu_margin{
+width: 67vw;
+height: 1.5vw;
+ margin: 0 auto;
+ background-color: white;
+
+
 }
