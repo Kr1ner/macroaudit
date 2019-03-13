@@ -162,3 +162,25 @@ body
   font-size: 30px;
   margin-left: 25vw;
 }
+
+.icons
+{
+  height: 20px;
+  width: 20px;
+  float: left;
+}
+
+.conli
+{
+  margin-top: 20px;
+  list-style: none;
+}
+
+
+.iconsi
+{
+  height: 20px;
+  width: 20px;
+  float: left;
+  border-radius: 2px;
+}
