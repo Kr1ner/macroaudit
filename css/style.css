@@ -140,6 +140,12 @@ body
 {
    text-decoration:none;
     font-size:20px;
+    color: grey;
+}
+
+.nava:hover
+{
+    color: green;
 }
 
 #navbar
@@ -163,7 +169,7 @@ body
   margin-left: 25vw;
 }
 
-<<<<<<< HEAD
+
 .icons
 {
   height: 20px;
@@ -184,12 +190,29 @@ body
   width: 20px;
   float: left;
   border-radius: 2px;
-=======
+}
 .menu_margin{
  width: 67vw;
  height: 10vw;
  background-color:white;
  margin: 0 auto;
 
->>>>>>> 6458c1c618197b0802fa9675232b664cc9f5c4f7
+}
+
+
+.navai
+{
+   text-decoration:none;
+   color: black;
+    font-size:22px;
+}
+
+.navai:hover
+{
+   color: green;
+}
+
+.facebook
+{
+  text-decoration: none;
 }
