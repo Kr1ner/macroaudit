@@ -186,8 +186,10 @@ body
   border-radius: 2px;
 =======
 .menu_margin{
- width: 100%;
+ width: 67vw;
  height: 10vw;
+ background-color:white;
+ margin: 0 auto;
 
 >>>>>>> 6458c1c618197b0802fa9675232b664cc9f5c4f7
 }
