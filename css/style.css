@@ -124,11 +124,13 @@ body
   list-style:none;
   float:left;
   margin-left:3vw;
+  margin-top:10px;
 }
 
 .navul
 {
   float:right;
+  margin-right:30px;
 }
 
 .nava
