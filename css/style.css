@@ -104,13 +104,13 @@ input, select {
 
 body
 {
-  color:F3F1F1;
+  color:#F3F1F1;
 }
 
 #page
 {
    width:67vw;
-   height
+   height:57vw;
 }
 
 .logo
@@ -118,4 +118,15 @@ body
    width:10vw;
    height:10vw;
    border:2px solid blue;
+}
+
+.navli
+{
+  list-style:none;
+  float:left;
+}
+
+.navul
+{
+float:left;
 }
